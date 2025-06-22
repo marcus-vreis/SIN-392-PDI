@@ -1,6 +1,6 @@
 # Processador de Imagens Simples
 
-[![GitHub license](https://img.shields.io/github/license/seu-usuario/seu-repo.svg)](LICENSE)
+[![GitHub license](https://img.shields.io/github/license/marcus-vreis/SIN-392-PDI.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue?logo=python)](https://www.python.org/)
 [![Build](https://img.shields.io/badge/build-passing-brightgreen)]()
 
@@ -14,6 +14,8 @@ O projeto é estruturado de forma modular, separando a interface gráfica da ló
 - ![NumPy](https://img.shields.io/badge/NumPy-Matriz-blue?logo=numpy) [NumPy](https://numpy.org/)
 - ![Matplotlib](https://img.shields.io/badge/Matplotlib-Gráficos-blue?logo=matplotlib) [Matplotlib](https://matplotlib.org/)
 - ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue?logo=python) (nativo do Python)
+- ![OpenCV](https://img.shields.io/badge/OpenCV-Processamento%20de%20Imagens-blue?logo=opencv) [OpenCV](https://opencv.org/)
+- ![scikit-image](https://img.shields.io/badge/scikit--image-Filtros-blue?logo=scikit-image) [scikit-image](https://scikit-image.org/)
 
 ## Estrutura dos Arquivos
 
